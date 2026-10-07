@@ -1,4 +1,7 @@
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import FloatingWhatsApp from "./components/FloatingWhatsApp";
+
 import Hero from "./sections/Hero";
 import Benefits from "./sections/Benefits";
 import Products from "./sections/Products";
@@ -21,6 +24,11 @@ function App() {
         <Trust />
         <FinalCTA />
       </main>
+
+      <Footer />
+
+      <FloatingWhatsApp />
+
     </div>
   );
 }
