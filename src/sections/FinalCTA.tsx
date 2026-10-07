@@ -121,7 +121,7 @@ export default function FinalCTA() {
             </div>
 
             {/* Small reassurance */}
-            <div className="mt-8 rounded-2xl border border-white/10 bg-white/[0.04] p-5">
+            <div className="mt-8 rounded-2xl border border-white/10 bg-white/4 p-5">
               <p className="text-sm leading-6 text-white/50">
                 Tidak harus langsung membeli.{" "}
                 <span className="font-medium text-white">
