@@ -4,6 +4,7 @@ import Benefits from "./sections/Benefits";
 import Products from "./sections/Products";
 import Process from "./sections/Process";
 import CustomStore from "./sections/CustomStore";
+import Trust from "./sections/Trust";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Products />
         <Process />
         <CustomStore />
+        <Trust />
         <section className="flex min-h-screen items-center justify-center px-6 pt-24">
           <div className="text-center">
             <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-neutral-500">
