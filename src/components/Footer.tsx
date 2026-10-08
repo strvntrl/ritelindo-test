@@ -19,6 +19,8 @@ const whatsappMessage = encodeURIComponent(
 );
 
 const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
+const instagramUrl = "https://www.instagram.com/";
+const linkedinUrl = "https://www.linkedin.com/";
 
 const navigation = [
   {
@@ -54,16 +56,16 @@ const contacts = [
   {
     label: "Instagram",
     description: "Lihat project kami",
-    href: "#",
+    href: instagramUrl,
     icon: FaInstagram,
-    external: false,
+    external: true,
   },
   {
     label: "LinkedIn",
     description: "Ritelindo Group",
-    href: "#",
+    href: linkedinUrl,
     icon: FaLinkedinIn,
-    external: false,
+    external: true,
   },
 ];
 
