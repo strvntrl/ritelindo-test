@@ -52,7 +52,7 @@ export default function CustomStore() {
           <div className="group relative min-h-110 overflow-hidden rounded-4xl bg-neutral-200 sm:min-h-140">
 
             <img
-              src="/images/projects/interior-toko.jpg"
+              src="/images/projects/interior-toko.png"
               alt="Interior toko retail dengan rak modern"
               className="absolute inset-0 h-full w-full object-cover transition-transform duration-1000 group-hover:scale-[1.025]"
             />

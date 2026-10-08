@@ -25,8 +25,12 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <a href="#home" className="inline-flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#111111] text-sm font-bold text-white">
-                R
+              <div className="flex h-10 w-10 items-center justify-center">
+                <img
+                  src="public/logo.png"
+                  alt="Ritelindo"
+                  className="h-full w-full object-contain"
+                />
               </div>
 
               <div>

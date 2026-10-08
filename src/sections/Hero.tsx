@@ -123,7 +123,7 @@ export default function Hero() {
             <div className="relative overflow-hidden rounded-4xl bg-neutral-200 shadow-2xl shadow-black/10">
 
               <img
-                src="/images/hero/hero-rak.jpg"
+                src="/images/hero/hero-rak.png"
                 alt="Rak minimarket dan interior toko Ritelindo"
                 className="aspect-4/3 w-full object-cover"
               />
@@ -152,7 +152,7 @@ export default function Hero() {
             </div>
 
             {/* Small floating card */}
-            <div className="absolute -bottom-5 -left-3 hidden rounded-2xl border border-black/5 bg-white p-4 shadow-xl sm:-left-6 sm:block">
+            <div className="absolute -bottom-14 -left-3 hidden rounded-2xl border border-black/5 bg-white p-4 shadow-xl sm:-left-6 sm:block">
               <div className="flex items-center gap-3">
 
                 <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-neutral-100">

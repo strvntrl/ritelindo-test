@@ -17,7 +17,7 @@ const audiences = [
     icon: Layers3,
     title: "Paket Setup Toko",
     description:
-      "Mulai dari kebutuhan rak hingga konfigurasi ruang yang lebih terencana.",
+      "Mulai dari kebutuhan rak hingga konfigurasi ruang yang lebih terencana dan strategis.",
   },
   {
     icon: Building2,

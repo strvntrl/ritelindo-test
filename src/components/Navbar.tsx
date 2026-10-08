@@ -11,8 +11,12 @@ export default function Navbar() {
             href="#home"
             className="flex items-center gap-2"
           >
-            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-black text-sm font-bold text-white">
-              R
+            <div className="flex h-9 w-9 items-center justify-center">
+              <img
+                src="public/logo.png"
+                alt="Ritelindo"
+                className="h-full w-full object-contain"
+              />
             </div>
 
             <div className="leading-none">
@@ -29,17 +33,17 @@ export default function Navbar() {
           {/* Desktop Navigation */}
           <div className="hidden items-center gap-8 md:flex">
             <a
-              href="#produk"
-              className="text-sm font-medium text-neutral-600 transition-colors hover:text-black"
-            >
-              Produk
-            </a>
-
-            <a
               href="#layanan"
               className="text-sm font-medium text-neutral-600 transition-colors hover:text-black"
             >
               Layanan
+            </a>
+
+            <a
+              href="#produk"
+              className="text-sm font-medium text-neutral-600 transition-colors hover:text-black"
+            >
+              Produk
             </a>
 
             <a
