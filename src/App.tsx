@@ -15,7 +15,7 @@ function App() {
     <div className="min-h-screen bg-white">
       <Navbar />
 
-      <main id="home">
+      <main>
         <Hero />
         <Benefits />
         <Products />

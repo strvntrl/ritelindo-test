@@ -98,7 +98,7 @@ export default function CustomStore() {
             className="group relative min-h-110 overflow-hidden rounded-4xl bg-neutral-200 sm:min-h-140"
           >
             <motion.img
-              src="/images/projects/interior-toko.png"
+              src="/images/projects/interior-toko.webp"
               alt="Interior toko retail dengan rak modern"
               className="absolute inset-0 h-full w-full object-cover"
               initial={{

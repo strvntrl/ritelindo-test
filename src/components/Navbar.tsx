@@ -63,7 +63,7 @@ export default function Navbar() {
           >
             <div className="flex h-9 w-9 items-center justify-center">
               <img
-                src="/logo.png"
+                src="/logo.webp"
                 alt="Ritelindo"
                 className="h-full w-full object-contain"
               />

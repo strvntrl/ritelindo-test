@@ -80,8 +80,7 @@ ritelindo-landing/
 │   │   ├── products/
 │   │   └── projects/
 │   │
-│   ├── logo.png
-│   └── favicon.svg
+│   └── logo.png
 │
 ├── src/
 │   ├── components/

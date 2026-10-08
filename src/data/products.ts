@@ -5,7 +5,7 @@ export const products = [
     category: "Display Utama",
     description:
       "Solusi display untuk memaksimalkan area tengah toko dan membuat produk lebih mudah terlihat oleh pelanggan.",
-    image: "/images/products/rak-gondola.png",
+    image: "/images/products/rak-gondola.webp",
   },
   {
     id: "wall",
@@ -13,7 +13,7 @@ export const products = [
     category: "Display Dinding",
     description:
       "Memanfaatkan area dinding toko secara optimal tanpa mengganggu jalur sirkulasi pelanggan.",
-    image: "/images/products/rak-dinding.png",
+    image: "/images/products/rak-dinding.webp",
   },
   {
     id: "minimarket",
@@ -21,6 +21,6 @@ export const products = [
     category: "Paket Toko",
     description:
       "Kombinasi rak untuk kebutuhan setup minimarket dan toko retail dengan konfigurasi yang dapat disesuaikan.",
-    image: "/images/products/paket-minimarket.png",
+    image: "/images/products/paket-minimarket.webp",
   },
 ];

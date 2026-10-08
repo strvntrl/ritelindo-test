@@ -241,7 +241,7 @@ export default function Hero() {
                 className="relative overflow-hidden rounded-4xl bg-neutral-200 shadow-2xl shadow-black/10"
               >
                 <motion.img
-                  src="/images/hero/hero-rak.png"
+                  src="/images/hero/hero-rak.webp"
                   alt="Rak minimarket dan interior toko Ritelindo"
                   className="aspect-4/3 w-full object-cover"
                   whileHover={{
