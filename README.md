@@ -80,7 +80,7 @@ ritelindo-landing/
 │   │   ├── products/
 │   │   └── projects/
 │   │
-│   └── logo.png
+│   └── logo.webp
 │
 ├── src/
 │   ├── components/
