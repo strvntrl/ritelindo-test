@@ -448,30 +448,6 @@ Tidak membutuhkan backend atau database karena website bersifat **static landing
 
 ---
 
-## ⚡ Performance Considerations
-
-Beberapa hal yang diperhatikan:
-
-* Menggunakan Vite untuk build yang ringan
-* Tidak menggunakan backend
-* Image disimpan sebagai static assets
-* Animasi menggunakan Framer Motion secara terbatas
-* `viewport.once` digunakan agar animation tidak terus-menerus dijalankan
-* Responsive image sizing
-* Menghindari animasi berlebihan
-* CTA tetap mudah diakses pada mobile
-
-Untuk production, image sebaiknya dikompresi dan menggunakan format modern seperti:
-
-```text
-WebP
-AVIF
-```
-
-jika memungkinkan.
-
----
-
 ## 📋 Main Sections
 
 ### 1. Hero
@@ -526,28 +502,6 @@ Berisi:
 * Instagram
 * LinkedIn
 * Copyright
-
----
-
-## 🔧 Future Improvements
-
-Beberapa pengembangan yang dapat dilakukan selanjutnya:
-
-* [ ] Mengganti nomor WhatsApp placeholder
-* [ ] Menambahkan URL Instagram resmi
-* [ ] Menambahkan URL LinkedIn resmi
-* [ ] Menambahkan Google Analytics
-* [ ] Menambahkan Google Tag Manager
-* [ ] Menambahkan conversion tracking WhatsApp
-* [ ] Menambahkan Google Ads conversion tracking
-* [ ] Optimasi image ke WebP / AVIF
-* [ ] Menambahkan sitemap
-* [ ] Menambahkan robots.txt
-* [ ] Menambahkan structured data / Schema.org
-* [ ] Menambahkan testimonial customer
-* [ ] Menambahkan project portfolio
-* [ ] Menambahkan FAQ section
-* [ ] Menambahkan form inquiry sebagai alternatif WhatsApp
 
 ---
 
