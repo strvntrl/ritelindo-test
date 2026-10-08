@@ -296,15 +296,15 @@ Struktur:
 ```text
 public/images/
 ├── hero/
-│   └── hero-rak.png
+│   └── hero-rak.webp
 │
 ├── products/
-│   ├── rak-gondola.jpg
-│   ├── rak-dinding.jpg
-│   └── paket-minimarket.jpg
+│   ├── rak-gondola.webp
+│   ├── rak-dinding.webp
+│   └── paket-minimarket.webp
 │
 └── projects/
-    └── interior-toko.png
+    └── interior-toko.webp
 ```
 
 Karena file berada di dalam `public`, image dipanggil menggunakan path dari root.
@@ -312,13 +312,13 @@ Karena file berada di dalam `public`, image dipanggil menggunakan path dari root
 Contoh:
 
 ```tsx
-<img src="/images/hero/hero-rak.png" />
+<img src="/images/hero/hero-rak.webp" />
 ```
 
 Bukan:
 
 ```tsx
-<img src="public/images/hero/hero-rak.png" />
+<img src="public/images/hero/hero-rak.webp" />
 ```
 
 ---
